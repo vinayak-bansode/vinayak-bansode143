@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @vinayak-bansode143
+- 👋 Hi, I’m Vinayak Bansode
 - 👀 I’m interested in Android app development
 - 🌱 I’m currently learning java with app development
-- 💞️ I’m looking for Android App development small project
-- 📫 How to reach me vinayakbansode5@gmail.com
+- 💞️ I’m looking for Android App development projects
+- 📫 How to reach me bansodevinayak2000@gmail.com 
+-    whatsapp 7218196316
 
 
 <!---
