@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working in Mirror infotech pvt.ltd<br>👯 I’m looking to flutter project<br>🤝 I’m looking for help with in android app Development<br>🌱 I’m currently learning Flutter <br>💬 Ask me about Flutter Cross Platform<br>⚡ Fun fact i am just learned Flutter
 
 
 ## 🌐 Socials:
